@@ -205,6 +205,7 @@
 - #1206 Fixed crash when `is` attribute with no value in `vue/no-unused-components` rule.
 - #1242 Fixed `vue/require-valid-default-prop` and `vue/require-default-prop` rules crash on sparse arrays.
 - #1262 Fixed reporting "Use the latest vue-eslint-parser" message in non-vue files.
+- #1154 #1283 Fixed false positives for spread elements in `vue/no-side-effects-in-computed` rule.
 
 ----
 
